@@ -1,0 +1,5 @@
+# Google Apps Script / Clasp ignore
+.clasp.json
+.claspignore
+node_modules/
+.DS_Store
